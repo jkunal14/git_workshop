@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
 cout<< "Hello Github,";
-cout<< "Ansh!";
+cout<< "Ansh!"<<endl;
+cout<<"Kunal Jindal!"<<endl;
 return 0;
 
 }
